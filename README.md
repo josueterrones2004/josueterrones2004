@@ -1,33 +1,34 @@
-# Josué Terrones
+# Hey, I'm Josué 👋
 
-**Full Stack Software Developer** focused on building web applications, real-time systems and independent software products.
+I'm a **Full Stack Software Developer** from Jalisco, Mexico.
 
-I work across frontend and backend development with **React, Next.js, TypeScript, Node.js, Python, C#, PHP/Laravel and SQL**. I enjoy designing practical systems, integrating external services, improving performance and taking projects from planning to deployment.
+I like building things that feel useful, polished and technically interesting — from full-stack web apps to real-time systems. Most of my work revolves around **React, Next.js, TypeScript, Python, Node.js, PHP/Laravel and SQL**.
 
-## Featured projects
+Right now I'm mainly working on these two projects:
 
-### Frostiq
-Full-stack media tracking platform for movies, series, books and games, with authentication, personal libraries, reviews, social features, unified search and an installable PWA experience.
+## 🎬 Media Tracker
 
-**Stack:** Next.js · React · TypeScript · Supabase/PostgreSQL · REST APIs · Vercel
+A full-stack platform for tracking movies, series, books and games. It includes personal libraries, reviews, social features, unified search across multiple APIs and an installable PWA experience.
 
-[Repository](https://github.com/josueterrones2004/media-tracker)
+**Built with:** Next.js · React · TypeScript · Supabase/PostgreSQL · REST APIs · Vercel
 
-### PenguSpeak
-Real-time text-to-speech system built around progressive audio streaming, asynchronous queues, contextual text processing and automatic provider failover.
+[Live app](https://frostiq.app) · [Repository](https://github.com/josueterrones2004/media-tracker)
 
-**Stack:** Python · AsyncIO · FFmpeg · Azure Speech · Edge TTS · SQLite
+## 🐧 PenguSpeak
 
-[Repository](https://github.com/josueterrones2004/PenguSpeak) · [Website](https://josueterrones2004.github.io/PenguSpeak-Web/)
+A real-time text-to-speech project focused on low latency, progressive audio streaming and reliable voice sessions. It includes asynchronous queues, contextual message processing and automatic failover between TTS providers.
 
-## Core stack
+**Built with:** Python · AsyncIO · FFmpeg · Azure Speech · Edge TTS · SQLite
+
+[Website](https://josueterrones2004.github.io/PenguSpeak-Web/) · [Repository](https://github.com/josueterrones2004/PenguSpeak)
+
+## 🧰 Tech I use
 
 **Frontend:** React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS  
 **Backend:** Node.js · Express · Python · C# · PHP · Laravel · REST APIs  
 **Databases:** PostgreSQL · Supabase · MySQL · SQL Server · SQLite  
 **Tools:** Git · GitHub · Linux · Postman · Vercel
 
-## Contact
+## 📫 Find me
 
-- Portfolio: [josueterrones.me](https://josueterrones.me)
-- Email: [josuetalvizo@gmail.com](mailto:josuetalvizo@gmail.com)
+[Portfolio](https://josueterrones.me) · [Email](mailto:josuetalvizo@gmail.com)
